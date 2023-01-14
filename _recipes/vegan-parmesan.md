@@ -1,9 +1,8 @@
 ---
 
 layout: recipe
-title:  "Arroz Verde"
-image: arroz-verde.jpg
-imagecredit: https://www.finecooking.com/recipe/arroz-verde-green-rice
+title:  "Vegan Parmesan"
+image: cashew-parmesan.webp
 tags: rice
 source: "https://minimalistbaker.com/how-to-make-vegan-parmesan-cheese/"
 
