@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Vegan Parmesan"
 image: cashew-parmesan.webp
-source: "https://minimalistbaker.com/how-to-make-vegan-parmesan-cheese/"
+source: "https://www.shelikesfood.com/easy-vegan-black-bean-burgers-giveaway/"
 
 ingredients:
 - 100g cashews

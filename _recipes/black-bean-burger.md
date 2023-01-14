@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Black Bean Burger"
-image: "black-bean-burger.jpg"
+image: black-bean-burger.jpg
 source: "https://www.shelikesfood.com/easy-vegan-black-bean-burgers-giveaway/"
 
 ingredients:
