@@ -17,8 +17,8 @@ ingredients:
 - hamburgers buns
 
 directions:
-1. Add all ingredients to a food processor. Process for 45-60 seconds
-2. Refrigerate mixture, make patties
+- Add all ingredients to a food processor. Process for 45-60 seconds
+- Refrigerate mixture, make patties
 
 components: 
 
