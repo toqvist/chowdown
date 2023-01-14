@@ -3,7 +3,6 @@
 layout: recipe
 title:  "Vegan Parmesan"
 image: cashew-parmesan.webp
-tags: rice
 source: "https://minimalistbaker.com/how-to-make-vegan-parmesan-cheese/"
 
 ingredients:

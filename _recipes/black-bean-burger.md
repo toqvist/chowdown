@@ -15,7 +15,7 @@ ingredients:
 - 1dl chunky salsa
 - 1dl breadcrumbs
 - hamburgers buns
- 
+
 directions:
 1. Add all ingredients to a food processor. Process for 45-60 seconds
 2. Refrigerate mixture, make patties
