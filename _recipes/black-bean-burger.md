@@ -19,8 +19,8 @@ ingredients:
 - hamburgers buns
  
 directions:
-1. Add all ingredients to a food processor. Process for 45-60 seconds, until all ingredients are blended together, but still a little bit chunky. Transfer mixture to a medium sized bowl and refrigerate for about ten minutes. Remove from the refrigerator and form mixture into patties. You will get about 4-6  patties, depending on the size you make them. Line a large sheet pan with parchment paper and place black bean burgers on. Refrigerator for about 20 minutes.
-2. Heat a large pan over medium heat and coat the bottom with olive oil. Cook the burgers for about 3-5 minutes on each side, until crisp and heated through. Top with your favorite burger toppings and enjoy!
+1. Add all ingredients to a food processor. Process for 45-60 seconds
+2. Refrigerate mixture, make patties
 
 components: 
 
